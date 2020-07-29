@@ -1,0 +1,27 @@
+/*********************************************************************************
+
+	Template Name: Boighor Bookshop Responsive Bootstrap4 Template  
+	Version: 1.0
+	Note: This is plugins css. All plugins css files import here.
+
+**********************************************************************************/
+
+@import url("plugins/font-awesome.min.23f540465628.css");
+@import url("plugins/bicon.min.f57a7e5dfd91.css");
+@import url("plugins/pe-icon-7-stroke.ea70c5ac2ffc.css");
+@import url("plugins/slick.min.903625a86a1b.css");
+@import url("plugins/fakeloader.b5ab3b55bd16.css");
+@import url("plugins/nivo-slider.b050c9486d60.css");
+@import url("plugins/nivo-preview-2.8a48060baaae.css");
+
+@import url("plugins/owl.carousel.min.e39fabc93f2d.css");
+@import url("plugins/owl.theme.default.min.275048a23c69.css");
+
+@import url("plugins/material-design-iconic-font.min.456021c079a2.css");
+@import url("plugins/animation.57db4a2811f9.css");
+@import url("plugins/fancybox.f34f22523000.css");
+@import url("plugins/mainmenu.cec7990fe26e.css");
+@import url("plugins/fotorama.fbefd1fb9105.css");
+@import url("plugins/simple-line-icons.4a2e38cfa58e.css");
+@import url("plugins/jquery-ui.min.906232206f67.css");
+@import url("plugins/lightbox.d6bd0eaae285.css");
